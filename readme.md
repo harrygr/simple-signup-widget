@@ -13,3 +13,9 @@ You can set whether to accept a name along with email. If you opt to hide the na
 ## Installation
 
 Just stick it in your WordPress plugin folder and activate it via the dashboard. Simples!
+
+## Development
+
+If you'd like to get involved feel free to submit pull requests to the [Github Repo](https://github.com/harrygr/simple-signup-widget).
+
+If you like this plugin and have way too much money then feel free to chuck some of it my way on my Gittip at [https://www.gittip.com/harrygr/](https://www.gittip.com/harrygr)

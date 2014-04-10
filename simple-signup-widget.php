@@ -7,7 +7,7 @@ Description: This plugin allows visitors to submit their email and name and be a
 Author: Harry Gr
 Version: 1.0
 Author URI: http://harryg.me
-License: MIT
+License: GPLv2 or later
 */
 
 //Instantiate the AJAX handler and load our jQuery
