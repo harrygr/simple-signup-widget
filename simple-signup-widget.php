@@ -71,7 +71,7 @@ if (username_exists( $name )) {
     }
     $name = $test_name;
 }
-$user_pass = substr( md5( $email . uniqid( microtime() ) ), 0, 7);
+$user_pass = substr( md5( $email . mt_rand() ), 0, 7);
 $user_id = wp_create_user( $name, $user_pass, $email );
 $user = new WP_User($user_id);
 $user->set_role('subscriber');
